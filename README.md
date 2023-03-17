@@ -29,7 +29,7 @@ To install this  Command-line application:
     
 To use this  Command-line application, enter the command "node index.js" in your terminal, follow and answer the prompts.
 
-The following video link demostrates the steps for using this application: [DemostrationVideo](https://drive.google.com/file/d/1R2_cjcYuZGVCXOzEj4FOE4uwt-9no-ve/view)??
+The following video link demostrates the steps for using this application: [DemostrationVideo](https://drive.google.com/file/d/1LVWYxNZ0Gfu5ldUnk1NCpq6GgiQ4E6BR/view)
     
 
   ## [Contributing](#table-of-contents)
